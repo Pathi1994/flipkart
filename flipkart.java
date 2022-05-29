@@ -1,13 +1,13 @@
 good mornig everyone
-includind all staff
-this is my number **********
-333333333333333333
-44444444444444
-999999999999999999999
-8888888888888888888
-777777777777777777
-666666666666666666
-55555555555555555
-4444444444444444444
-222222222222222222
-11111111111111111111
+
+
+
+
+
+Dr. Ruben Puentedura developed the SAMR model as a way for teachers to evaluate how they are incorporating technology into their instructional practice.
+You can use SAMR to reflect upon how you are integrating technology into your classroom.  As you plan classroom activities involving technology are they an act of:
+Substitution
+Augmentation
+Modification
+Redefinitio
+
